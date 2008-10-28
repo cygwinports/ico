@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6
-sdesc: "Xorg icosahedron animator"
-ldesc: "Xorg icosahedron animator"
+sdesc: "X.Org icosahedron animator"
+ldesc: "X.Org icosahedron animator"
