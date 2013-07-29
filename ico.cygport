@@ -1,0 +1,11 @@
+inherit xorg
+
+NAME="ico"
+VERSION=1.0.4
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X polyhedron animator"
+DESCRIPTION="Ico displays a wire-frame rotating polyhedron, with hidden lines
+removed, or a solid-fill polyhedron with hidden faces removed.  There are a
+number of different polyhedra available; adding a new polyhedron to the
+program is quite simple."
